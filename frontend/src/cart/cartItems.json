@@ -1,0 +1,20 @@
+{
+  "cartItems": [
+    {
+      "name": "Item1",
+      "image": "https://picsum.photos/id/237/200/300",
+      "desc": "Item1 Description",
+      "id": "I001",
+      "price": 24,
+      "cartQuantity": 6
+    },
+    {
+      "name": "Item2",
+      "image": "https://picsum.photos/id/237/200/300",
+      "desc": "Item2 Description",
+      "id": "I002",
+      "price": 32,
+      "cartQuantity": 4
+    }
+  ]
+}
